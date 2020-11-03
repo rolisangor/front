@@ -1,0 +1,84 @@
+body {
+    background-color: RGB(248,249,250)
+}
+
+.container-admin {
+    background-color: darkgray;
+}
+
+.admin-btn-logout {
+    color: darkgrey;
+}
+
+.container-logout {
+    float: right;
+}
+
+.menu-column {
+    background-color: white;
+}
+
+.admin-email {
+    font-family: "Arial Black";
+    color: azure;
+    font-weight: lighter;
+}
+
+.admin-text {
+    font-family: "Calibri";
+    color: azure;
+}
+
+.admin-color {
+    /*font-weight: bolder;*/
+}
+
+.admin-tab-container {
+    background-color: RGB(248,249,250);
+}
+
+.admin-panel-row {
+    background-color: RGB(247,247,247);
+    padding: 10px;
+    border: 1px RGB(230, 230, 230) solid;
+}
+
+.container-border {
+    border: 1px RGB(230, 230, 230) solid;
+}
+
+.admin-panel-row-text {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.admin-menu-container{
+    background-color: white;
+}
+
+.admin-table-users {
+    background-color: white;
+}
+
+.light-color {
+    background-color: white;
+}
+
+.user-form {
+    text-align: center;
+    margin: auto;
+}
+
+.label-form {
+    font-weight: bold;
+}
+
+.modal-user-form {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.b {
+    border: 1px red solid;
+}
